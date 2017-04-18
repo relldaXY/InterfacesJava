@@ -22,3 +22,14 @@ public class Main {
 	}
 
 }
+/*
+ * Notas de interface
+ * 
+ *  Funciona so na compilacao
+ * 	Sao usadas para criar as formas como objetos devem realizar determinadas acoes
+ *	Uma classe pode herdar varias interfaces 
+ *  A partir do momento que uma classe implementa uma interface, ela deve implementar 
+ *  todos os metodos dessa interface, havendo muitas classes que implementam uma dada
+ *  interface, esses metodos podem ser implementados de forma diferente
+ *  Definem o tipo de objeto
+ */
